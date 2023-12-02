@@ -1,7 +1,8 @@
 import java.util.Scanner;
 
 public class Palindromo {
-
+	
+/*codigo creado por Jorge Martinez*/
 
 	    public static void main(String[] args) {
 	        Scanner sc = new Scanner(System.in);
